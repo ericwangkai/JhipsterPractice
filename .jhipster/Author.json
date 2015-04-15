@@ -1,0 +1,34 @@
+{
+    "relationships": [
+        {
+            "relationshipId": 1,
+            "relationshipName": "author",
+            "relationshipNameCapitalized": "Author",
+            "relationshipFieldName": "author",
+            "otherEntityName": "book",
+            "relationshipType": "one-to-many",
+            "otherEntityNameCapitalized": "Book"
+        }
+    ],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldNameCapitalized": "Name",
+            "fieldNameUnderscored": "name",
+            "fieldValidate": true,
+            "fieldValidateRules": []
+        }
+    ],
+    "fieldsContainOwnerManyToMany": false,
+    "fieldsContainOneToMany": true,
+    "fieldsContainLocalDate": false,
+    "fieldsContainCustomTime": false,
+    "fieldsContainBigDecimal": false,
+    "fieldsContainDateTime": false,
+    "fieldsContainDate": false,
+    "changelogDate": "20150414003128",
+    "pagination": "pagination",
+    "validation": true
+}

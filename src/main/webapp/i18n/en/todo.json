@@ -1,0 +1,20 @@
+{
+    "practiceApp": {
+        "todo" : {
+            "home": {
+                "title": "Todos",
+                "createLabel": "Create a new Todo",
+                "createOrEditLabel": "Create or edit a Todo"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Todo {{ id }}?"
+            },
+            "detail": {
+                "title": "Todo"
+            },
+            "title": "Title",
+            "status": "Status",
+            "user": "user"
+        }
+    }
+}

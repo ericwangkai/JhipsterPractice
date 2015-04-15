@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "practice",
+    "packageName": "com.eric.practice",
+    "packageFolder": "com/eric/practice",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "8a82759d737c79d4fadf6e934677f2bea7b8936c"
+  }
+}
